@@ -10,7 +10,6 @@ NutriPlus is a web application designed to help users manage their nutrition and
 - [Services](#services)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
